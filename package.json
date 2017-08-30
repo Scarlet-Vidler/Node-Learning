@@ -1,0 +1,20 @@
+{
+  "name": "node-testing",
+  "version": "1.0.0",
+  "description": "My First Node Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://scarlet_vidler@bitbucket.org/inspiradigital/scarlet-node-basics.git"
+  },
+  "author": "Scarlet Vidler",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/inspiradigital/scarlet-node-basics#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "nodemon": "^1.11.0"
+  }
+}
